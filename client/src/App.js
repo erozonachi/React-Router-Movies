@@ -31,8 +31,7 @@ export default class App extends Component {
           />
           <Route 
             path='/movies/:id'
-            handleSaveClick={this.addToSavedList}
-            component={Movie}
+            render={props => <Movie {...props} handleSaveClick={this.addToSavedList} />}
           />
         </div>
       </Router>
