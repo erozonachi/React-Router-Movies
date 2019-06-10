@@ -9,14 +9,14 @@ Topics:
 
 ## Instructions
 
-* **Fork** this repository, then clone your fork.
-* **NOTE** You have 2 servers that you will be running here so read these instructions carefully.
-* **In the root of this directory**: Run `yarn install` to download dependencies.
-* Run the server using `yarn start` or `node server.js`. (Don't worry too much about this process, you'll get used to doing this and it will be explained more in the future).
-* In a separate terminal cd into the `client` folder and run `yarn install` to download dependencies.
-* Still inside the `client` folder run `yarn start` to run the client application.
+* [x] **Fork** this repository, then clone your fork.
+* [x] **NOTE** You have 2 servers that you will be running here so read these instructions carefully.
+* [x] **In the root of this directory**: Run `yarn install` to download dependencies.
+* [x] Run the server using `yarn start` or `node server.js`. (Don't worry too much about this process, you'll get used to doing this and it will be explained more in the future).
+* [x] In a separate terminal cd into the `client` folder and run `yarn install` to download dependencies.
+* [x] Still inside the `client` folder run `yarn start` to run the client application.
 
-* Once your application is up and running on the client, you should see a browser window that looks like this at `localhost:3000`
+* [x] Once your application is up and running on the client, you should see a browser window that looks like this at `localhost:3000`
   ![Movies Home](https://ibin.co/3xhmmHVl9BKF.png)
 
 ### Part 1:
