@@ -28,6 +28,10 @@ export default class App extends Component {
             path='/'
             component={MovieList}
           />
+          <Route 
+            path='/movies/:id'
+            component={Movie}
+          />
         </div>
       </Router>
     );
